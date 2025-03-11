@@ -1,0 +1,17 @@
+
+
+
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES6",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "module": "commonjs",
+    "target": "es2016",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
